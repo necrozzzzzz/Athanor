@@ -78,24 +78,28 @@ provides clear recommendations based on your collection preferences.
 - Filters by class, rarity, format, expansion and meta relevance
 - Automatic application updates
 - Available in multiple languages
-##
+
+## Screenshots
+
+### Collection recommendations
 
 <p align="center">
   <img
     src="./assets/screenshots/ATHANOR_RECO.png"
     width="100%"
-    alt="Athanor Recommendations"
+    alt="Athanor recommendations interface"
   />
 </p>
+
+### Meta decks
 
 <p align="center">
   <img
     src="./assets/screenshots/ATHANOR_METADECKS.png"
     width="100%"
-    alt="Athanor Meta Decks"
+    alt="Athanor meta decks interface"
   />
 </p>
-
 
 ## Download
 
