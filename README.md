@@ -38,7 +38,7 @@
     alt="Latest version"
   />
   <img
-    src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-2563EB?style=flat-square"
+    src="https://img.shields.io/badge/-Windows-2563EB?style=flat-square&logo=windows&logoColor=white"
     alt="Windows"
   />
   <img
