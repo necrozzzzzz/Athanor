@@ -39,7 +39,7 @@
   />
   <img
     src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-2563EB?style=flat-square"
-    alt="Windows 10 and Windows 11"
+    alt="Windows"
   />
   <img
     src="https://img.shields.io/badge/Architecture-x64-334155?style=flat-square"
