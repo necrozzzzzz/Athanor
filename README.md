@@ -115,9 +115,6 @@ Athanor is also available through itch.io:
 
 [**View Athanor on itch.io**](https://nec-roz.itch.io/athanor)
 
-Installing it through the itch.io application allows itch.io to manage future
-build updates.
-
 ## Installation
 
 1. Download the latest Windows ZIP.
